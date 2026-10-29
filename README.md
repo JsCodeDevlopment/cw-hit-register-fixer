@@ -1,5 +1,10 @@
 # Contract Wars Hit Register Fixer
 
+## Related Documentation
+
+- [Contract Wars Optimization](contract-wars-optimization.md)
+- [Otimização do Contract Wars (Portuguese)](otimizacao-contract-wars.md)
+
 ## Gameplay and Performance Improvements
 
 This document describes **what is improved in practice** and **which aspects of gameplay** benefit from the system and network optimizations in **Contract Wars**.
